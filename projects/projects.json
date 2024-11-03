@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Indoor Crowd Management System",
+    "desc": "This project creates a real-time Crowd Management System for accurate crowd counting, density monitoring, and color-coded alerts to enhance public safety.",
+    "image": "crowd",
+    "links": {
+      "view": "https://www.youtube.com/watch?v=FGwYJ6DORIc",
+      "code": "https://github.com/sanskarjain25/Efficient_Indoor_Crowd_Management_System"
+    }
+  },
+  {
+    "name": "TKC Website",
+    "desc": "TechBairn's student community website connects students with resources, and events to support skill development and career growth in the tech field.",
+    "image": "tkc",
+    "links": {
+      "view": "https://raw.githack.com/sanskarjain25/TechBairn-Student-Community-KIIT/main/index.html",
+      "code": "https://github.com/sanskarjain25/TechBairn-Student-Community-KIIT"
+    }
+  },
+  {
+    "name": "GlamBot",
+    "desc": "GlamBot - Conversational Outfit Generator Powered by GenAI",
+    "image": "glambot",
+    "links": {
+      "view": "https://github.com/sanskarjain25/Atomic24-GlamBot",
+      "code": "https://github.com/sanskarjain25/Atomic24-GlamBot"
+    }
+  },
+  {
+    "name": "Weather Application",
+    "desc": "A weather application providing real-time forecasts, alerts, and detailed weather insights to help users stay prepared for any conditions.",
+    "image": "weather",
+    "links": {
+      "view": "https://raw.githack.com/sanskarjain25/Weather-Application/main/index.html",
+      "code": "https://github.com/sanskarjain25/Weather-Application"
+    }
+  },
+  {
+    "name": "Jobbly",
+    "desc": "Jobbly is an API that uses OpenAI's LLM to provide job seekers with personalized recommendations to help them make informed career decisions.",
+    "image": "jobbly",
+    "links": {
+      "view": "https://www.youtube.com/watch?v=Xy6q5TwXT5U",
+      "code": "https://github.com/sanskarjain25/Jobbly"
+    }
+  },
+  {
+    "name": "Word Letter Counter",
+    "desc": "A word and letter counter tool that quickly calculates the number of words, characters, and spaces in any text for efficient content analysis.",
+    "image": "counter",
+    "links": {
+      "view": "https://github.com/sanskarjain25/Word-Letter-Counter",
+      "code": "https://github.com/sanskarjain25/Word-Letter-Counter"
+    }
+  }
+]
